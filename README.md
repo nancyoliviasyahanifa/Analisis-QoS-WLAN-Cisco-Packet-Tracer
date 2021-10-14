@@ -1,5 +1,5 @@
-# Analisis-QoS-WLAN-Cisco-Packet-Tracer
-TUGAS BESAR MATKUL JARTEL
+# Kelompok 3 TT4411
+### TUGAS BESAR MATKUL JARTEL
 1.	Nancy Olivia Syahanifa 	 	  1101204022
 2.	Tia Fiendi Aryaningtyas 	 	1101204055
 3.	Muhammad Surya Sanjiwani	 	1101200113
